@@ -34,8 +34,10 @@ in the `Applications` search box, and select it.
 
 ### Step 4: Upload your favicon image
 
-Finally, upload your favicon image. We suggest it's a large square `.png` image
-(at least 512 * 512 px), but JPG is also probably fine.
+Finally, upload your favicon image. Click the edit application on your site
+config page, and either choose an existing image or upload a new one.
+
+We suggest it's a large square `.png` image (at least 512 * 512 px), but JPG is also probably fine.
 
 ## Open open source
 
