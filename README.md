@@ -12,8 +12,9 @@ very doable.
 
 ### Step 1: Download `.jar`
 
-Get the `jar` by cloning this repository and running `./gradlew build`. The
-jar-file is in the `build/libs/` folder.
+Get the jar by downloading it from
+[bintray](https://bintray.com/artifact/download/selbekk/maven/favicon-1.0.0.jar),
+or alternatively cloning this repo and building it.
 
 ### Step 2: Deploy to your site
 
