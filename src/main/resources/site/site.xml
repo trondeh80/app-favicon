@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-  <config/>
+  <config>
+      <input type="ImageSelector" name="favicon">
+          <label>Shortcut icon</label>
+          <occurrences minimum="0" maximum="1"/>
+      </input>
+  </config>
+  <filters>
+    <response-filter name="favicon" order="10"/>
+  </filters>
 </site>
