@@ -1,0 +1,6 @@
+# Build specifics
+build
+.gradle
+
+# OS specifics
+.DS_Store
