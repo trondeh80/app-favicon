@@ -33,7 +33,7 @@ bintray {
         repo = 'maven'
         name = project.appName
         userOrg = 'selbekk'
-        licences = ['MIT']
+        licenses = ['Apache-2.0']
         vcsUrl = 'https://github.com/selbekk/app-favicon.git'
         version {
             name = project.version
