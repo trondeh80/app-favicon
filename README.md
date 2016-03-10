@@ -6,26 +6,16 @@ Need to add favicons to your Enonic XP site? This is the app for you!
 
 ## How to use
 
-Using this is pretty straight forward. It will be much easier once it's
-available in the [Enonic Market](https://market.enonic.com), but it's still
-very doable.
+The application is available through the 
+[Enonic Market](https://market.enonic.com/vendors/selbekk/io.selbekk.favicon).
+This means starting to use this application is easier than the first few levels 
+of Candy Crush.
 
-### Step 1: Download `.jar`
+### Step 1: Install application
+Head over to the Applications section of your Enonic XP installation. Click "Install", 
+and then select the "Enonic Market" tab. Find "Favicon", and click the install button. 
 
-Get the jar by downloading it from
-[bintray](https://bintray.com/artifact/download/selbekk/maven/favicon-1.0.0.jar),
-or alternatively cloning this repo and building it.
-
-### Step 2: Deploy to your site
-
-If you're developing locally, deploy via gradle like so:
-
-```bash
-$ ./gradlew deploy
-```
-
-You can also install it via the application tab in the Enonic admin panel. Just
-click `install` and choose the JAR.
+Bam, the application is now installed. 
 
 ### Step 3: Apply the application to your site
 
